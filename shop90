@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Shop90</title>
+</head>
+<style>
+
+body{background-color:#fff; color:#000; font-family:Arial; margin:15px;}
+
+a{text-decoration:none; color:#FF0000;}
+
+a:hover{text-decoration:underline;}
+
+</style>
+<body>
+
+<div id="home" style="text-align:center;"><h1>Shop90</h1><span>¡Una tienda gratis y para todos!</span></div>
+
+</body>
+</html>
